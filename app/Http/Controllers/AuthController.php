@@ -30,7 +30,6 @@ class AuthController extends Controller
     public function showRegisterForm() {
         return view('auth.register');
     }
-
     public function register(Request $request) {
         $validated = $request->validate([
             'full_name' => 'required|string|max:255',
