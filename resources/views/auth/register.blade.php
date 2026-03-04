@@ -2,6 +2,7 @@
 
 @section('title', 'Регистрация')
 
+
 @section('main')
     <form method="POST"
           action="{{route('register')}}"

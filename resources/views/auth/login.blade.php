@@ -9,6 +9,7 @@
         @csrf
         <h1 class="text-3xl">Вход</h1>
 
+
         <div>
             <label for="email" class="font-light">Почта</label>
             <input id="email"
