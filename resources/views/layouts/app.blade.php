@@ -12,6 +12,7 @@
         'resources/js/app.js'
     ])
 </head>
+
 <body class="min-h-screen flex flex-col">
 
 <header class="px-10 h-15 bg-linear-to-r from-cyan-500 to-cyan-800 text-white flex items-center text-2xl justify-between gap-6 text-ellipsis">

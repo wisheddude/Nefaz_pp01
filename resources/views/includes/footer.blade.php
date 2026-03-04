@@ -6,6 +6,7 @@
         <a href="{{route('register')}}" class="underline">Регистрация</a>
     </div>
 
+
     <div class="w-1/3 flex flex-col gap-1">
         <p class="text-xl font-semibold mb-2">Документы</p>
         <a href="" target="_blank" class="underline">Пользовательское соглашение</a>
