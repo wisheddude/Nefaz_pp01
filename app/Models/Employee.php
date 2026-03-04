@@ -19,6 +19,7 @@ class Employee extends Authenticatable
         'department_id',
     ];
 
+
     public function departments() {
         return $this->belongsTo(Department::class);
     }
