@@ -16,6 +16,7 @@ class ProjectController extends Controller
         return view('home', compact('projects'));
     }
 
+
     /**
      * Show the form for creating a new resource.
      */
