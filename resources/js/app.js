@@ -7,6 +7,7 @@ function formatDate(dateStr) {
     return `${year}.${month}.${day}`;
 }
 
+
 document.addEventListener('DOMContentLoaded', () => {
     const projectsContainer = document.querySelector('.flex-col');
     const tasksBody = document.getElementById('tasks-body');
