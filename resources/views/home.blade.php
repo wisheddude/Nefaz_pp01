@@ -2,6 +2,7 @@
 
 @section('title', 'Главная')
 
+
 @section('main')
     <div class="flex gap-6 w-full h-full px-10 py-4">
 
